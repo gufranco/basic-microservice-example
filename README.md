@@ -2,6 +2,8 @@
 
 A simplistic example of how Nubank organizes and tests microservices.
 
+[![license](https://img.shields.io/github/license/gufranco/basic-microservice-example?style=flat-square&label=license)](LICENSE)
+
 This is a really basic savings account microservice that doesn't really do much
 other than serve as an example.
 
